@@ -1,3 +1,4 @@
 sudo -i root command 
 ll to get the files
 Touch is used to creadte a file 
+cat is used to see the data in file
